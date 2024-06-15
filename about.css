@@ -1,0 +1,47 @@
+body {
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: 100% 100%;
+ }
+
+ h1 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+ }
+
+ .me p {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+ }
+
+ .course p {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+ }
+
+ .expect p {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+ }
+
+ .button-container {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.button {
+    padding: 5px 5px;
+    font-size: 16px;
+}
+
+.button a {
+    text-decoration: none;
+    color: inherit;
+}
+
